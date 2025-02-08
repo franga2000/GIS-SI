@@ -1,9 +1,18 @@
 # Prosto dostopni GIS viri v Sloveniji
 
+## Tematike
+
+### Telekomunikacije
+
+AKOS
+
+```
+https://gis.akos-rs.si/geoserver/wms?SERVICE=wfs&VERSION=1.1.1&REQUEST=GetCapabilities
+```
+
 ## Področja
 
 ### Slovenija
-
 
 
 #### CSW (metapodatkovni strežnik)
