@@ -1,0 +1,14 @@
+<!DOCTYPE connections>
+<qgsWFSConnections version="1.1">
+    <wfs name="AKOS WFS" version="auto" ignoreAxisOrientation="false" maxnumfeatures="" pagingenabled="true" url="https://gis.akos-rs.si/geoserver/wms?VERSION=1.1.1" invertAxisOrientation="false" username="" password="" pagesize=""/>
+    <wfs name="Arso OWS" version="auto" ignoreAxisOrientation="false" maxnumfeatures="" pagingenabled="true" url="http://gis.arso.gov.si/geoserver/ows" invertAxisOrientation="false" username="" password="" pagesize=""/>
+    <wfs name="Geo Portal WFS" version="auto" ignoreAxisOrientation="false" maxnumfeatures="" pagingenabled="true" url="https://geo-portal.si/proxy/sodokart" invertAxisOrientation="false" username="" password="" pagesize=""/>
+    <wfs name="Igea WFS" version="auto" ignoreAxisOrientation="false" maxnumfeatures="" pagingenabled="true" url="https://storitve.igea.si/sdi/wfs?request=getCapabilities" invertAxisOrientation="false" username="" password="" pagesize=""/>
+    <wfs name="Kranj WFS" version="auto" ignoreAxisOrientation="false" maxnumfeatures="" pagingenabled="true" url="https://prostor.kranj.si/ows/public/wfs" invertAxisOrientation="false" username="" password="" pagesize=""/>
+    <wfs name="LPT WFS" version="auto" ignoreAxisOrientation="false" maxnumfeatures="" pagingenabled="true" url="https://sdms.lpt.si/wfs?apikey=5D06760B9A27D293292AC2CB6C16A5BEF39A25D3" invertAxisOrientation="false" username="" password="" pagesize=""/>
+    <wfs name="Prostor ZGS WFS" version="auto" ignoreAxisOrientation="false" maxnumfeatures="" pagingenabled="true" url="https://prostor.zgs.gov.si/geoserver/ows?version=2.0.0" invertAxisOrientation="false" username="" password="" pagesize=""/>
+    <wfs name="Tekaso WFS" version="auto" ignoreAxisOrientation="false" maxnumfeatures="" pagingenabled="true" url="https://pic.tekaso.si/geoserver/ows?version=1.0.0" invertAxisOrientation="false" username="" password="" pagesize=""/>
+    <wfs name="eProstor Gurs WFS" version="auto" ignoreAxisOrientation="false" maxnumfeatures="" pagingenabled="true" url="https://ipi.eprostor.gov.si/wfs-si-gurs-kn/wfs?request=getCapabilities" invertAxisOrientation="false" username="" password="" pagesize=""/>
+    <wfs name="eProstor INS WFS" version="auto" ignoreAxisOrientation="false" maxnumfeatures="" pagingenabled="true" url="https://storitve.eprostor.gov.si/ows-ins-wfs/ows" invertAxisOrientation="false" username="" password="" pagesize=""/>
+    <wfs name="eProstor PUB WFS" version="auto" ignoreAxisOrientation="false" maxnumfeatures="" pagingenabled="true" url="https://storitve.eprostor.gov.si/ows-pub-wfs/ows" invertAxisOrientation="false" username="" password="" pagesize=""/>
+</qgsWFSConnections>
