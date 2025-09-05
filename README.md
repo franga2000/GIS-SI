@@ -94,6 +94,12 @@ Mestna občina Ljubljana - GIS06: lokalne zadeve, ortofoto višje resolucije
 https://gis06.ljubljana.si/arcgis/rest/services
 ```
 
+Mestna občina Ljubljana - Pobude: mirror nekaterih stvari z GIS06
+
+```
+https://pobude.ljubljana.si/arcgis/rest/services
+```
+
 ---
 
 ### Maribor
