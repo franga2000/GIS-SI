@@ -2,5 +2,6 @@
 <qgsARCGISFEATURESERVERConnections version="1.0">
     <arcgisfeatureserver name="ARSO ArcGIS" url="https://gis.arso.gov.si/arcgis/rest/services" username="" password="" authcfg=""/>
     <arcgisfeatureserver name="GeoHub ArcGIS" url="https://geohub.gov.si/ags/rest/services" username="" password="" authcfg=""/>
-    <arcgisfeatureserver name="Ljubljana ArcGIS" url="https://gis06.ljubljana.si/arcgis/rest/services" username="" password="" authcfg=""/>
+    <arcgisfeatureserver name="Ljubljana ArcGIS 06" url="https://gis06.ljubljana.si/arcgis/rest/services" username="" password="" authcfg=""/>
+    <arcgisfeatureserver name="Ljubljana ArcGIS 01" url="https://gis1.ljubljana.si/arcgis/rest/services" username="" password="" authcfg=""/>
 </qgsARCGISFEATURESERVERConnections>
