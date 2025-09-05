@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsVectorTileConnections version="1.0">
+    <vectortile zmax="14" name="OutDoorActive" http-header:referer="" serviceType="arcgis" url="https://w0.outdooractive.com/map/v1/topo/pro_ign_os_swisstopo/{z}/{y}/{x}/t.png" zmin="0" referer="" username="" styleUrl="" password="" authcfg=""/>
+</qgsVectorTileConnections>
