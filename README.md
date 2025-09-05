@@ -94,7 +94,7 @@ Mestna občina Ljubljana - GIS1: lokalne zadeve, ortofoto višje resolucije
 https://gis1.ljubljana.si/arcgis/rest/services
 ```
 
-Mestna občina Ljubljana - Pobude: lokalne zadeve, ortofoto višje resolucije (nekaj več zadev kot GIS1, ampak trenutno nedostopen)
+Mestna občina Ljubljana - GIS06: lokalne zadeve, ortofoto višje resolucije (nekaj več zadev kot GIS1, ampak trenutno nedostopen)
 
 ```
 https://gis06.ljubljana.si/arcgis/rest/services
